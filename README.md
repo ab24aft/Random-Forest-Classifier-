@@ -90,12 +90,12 @@ The model’s performance is evaluated using the following metrics:
 1. **Confusion Matrix**:
    - This heatmap visualizes the number of true positives, false positives, true negatives, and false negatives.
 
-   ![Confusion Matrix](confusion_matrix.png)
+   ![Confusion Matrix]
 
 2. **Feature Importance**:
    - This bar plot shows the relative importance of each feature in making predictions.
 
-   ![Feature Importance](feature_importance.png)
+   ![Feature Importance]
 
 ## Conclusion
 
